@@ -8,6 +8,10 @@ I have made this app while learning flutter. In this application i have learned 
 - App alows user to see the value of 1 BTC,ETH & LTC crypto currencies into various  currencies.
 
 
+#### Packages used
+- `http: ^0.13.3`
+
+
 #### Snapshot 
 ![bitcoin-flutter-demo](https://user-images.githubusercontent.com/71598142/126762413-6cf65f5e-c7b2-4baf-af1a-3486a34fe15e.gif)
 
